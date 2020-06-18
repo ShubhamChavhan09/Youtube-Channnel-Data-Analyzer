@@ -8,6 +8,7 @@ pip install tqdm (for the Progressbar)
 
 # API Key
 https://developers.google.com/youtube/v3/getting-started
+
 https://console.developers.google.com/
 
 You need a Google Account to access the Google API Console, request an API key, and register your application.
