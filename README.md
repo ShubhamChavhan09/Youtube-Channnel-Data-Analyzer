@@ -3,6 +3,7 @@ Extract youtube statistics of a channel. Uses the YouTube Data API. It extracts 
 
 # Requirements
 pip install requests (for GET requests)
+
 pip install tqdm (for the Progressbar)
 
 # API Key
